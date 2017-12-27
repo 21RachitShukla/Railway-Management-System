@@ -1,5 +1,6 @@
 # Railway-Management-System
-Class XII Computer Science Project
+
+# Class XII Computer Science Project
 
 IRCTC stands for Indian Railway Catering and Tourism Corporation. The program aims to explain the railway reservation done by Indian Railways. 
 
